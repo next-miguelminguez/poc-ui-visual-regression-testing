@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "backstop-init": "./node_modules/.bin/backstop init"
+    "visual-init": "./node_modules/.bin/backstop init",
+    "visual-test": "./node_modules/.bin/backstop test",
+    "visual-approve": "./node_modules/.bin/backstop approve"
   },
   "author": "",
   "license": "ISC",
