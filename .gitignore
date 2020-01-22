@@ -9,3 +9,6 @@ npm-debug.log
 .vscode/
 package-lock.json
 _*/
+
+backstop_data/html_report/
+bitmaps_test/
