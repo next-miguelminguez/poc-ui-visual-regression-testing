@@ -49,8 +49,14 @@
       "selectors": [],
       "selectorExpansion": true,
       "expect": 0,
-      "misMatchThreshold" : 0.1,
-      "requireSameDimensions": true
+      "misMatchThreshold" : 0.20,
+      "requireSameDimensions": true,
+      "keyPressSelectors": [
+        {
+          "selector": ".gLFyf.gsfi",
+          "keyPress": "ws api"
+        }
+      ]
     }
   ],
   "paths": {
