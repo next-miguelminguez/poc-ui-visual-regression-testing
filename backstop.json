@@ -41,7 +41,7 @@
       "readyEvent": "",
       "readySelector": "",
       "delay": 0,
-      "hideSelectors": [],
+      "hideSelectors": ["#hplogo"],
       "removeSelectors": [],
       "hoverSelector": "",
       "clickSelector": "",
