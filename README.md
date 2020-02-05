@@ -12,8 +12,7 @@ herramientas: https://visualregressiontesting.com/tools.html
 
 npm comparador de imagenes https://github.com/rsmbl/Resemble.js
 
-Herramienta de test de interface:
-
+Herramienta de test de interface: http://galenframework.com/
 
 otras lecturas:
 https://uxdesign.cc/how-to-test-readability-40d4f0f00c8f
